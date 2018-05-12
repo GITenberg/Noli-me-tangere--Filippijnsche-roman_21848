@@ -1,0 +1,40 @@
+_repo: Noli-me-tangere--Filippijnsche-roman_21848
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fokker, Abraham Anthony
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '24924'
+    url: http://www.gutenberg.org/2009/agents/24924
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal, Jose
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+description: ''
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21848'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- 1812-1898 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+title: 'Noli me tangere: Filippijnsche roman'
+url: http://www.gutenberg.org/ebooks/21848
